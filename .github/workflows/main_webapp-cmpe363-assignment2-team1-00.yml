@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'webapp-CMPE363-assignment2-team1-00'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_44D7AE0466AC49409EF96D5326632DCC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CE87A32A468C4858B2E550B37E8399D9 }}
           package: .
